@@ -1,0 +1,31 @@
+h1{
+  display: flex;
+  justify-content: center;
+  margin: 30vh;
+  margin-bottom: 2px;
+  font-size:50px ;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  margin-bottom:  1vh;
+  margin-top: 1vh;
+  font-size:50px ;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+button{
+    padding: 10px 20px ;
+    background-color: #000;
+    color: white;
+}
+
+.container{
+    margin: 5vh 10vh;
+}
